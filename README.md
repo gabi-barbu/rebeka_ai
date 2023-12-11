@@ -1,6 +1,6 @@
-Dashboard - Work in progress, use Clerk to login with google account
-Conversation - 90% ready, feel free to test it similar to Chat GPT
-Rest are still in development, will update here next push
+Dashboard - Work in progress, use Clerk to login with google account.
+Conversation - 90% ready, feel free to test it similar to Chat GPT.
+Rest are still in development, will update here next push.
 
 ## Getting Started
 
